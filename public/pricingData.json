@@ -1,0 +1,46 @@
+[
+  {
+    "id": "plan-001",
+    "name": "Starter",
+    "price": "$49.99/month",
+    "description": "Perfect for beginners just getting started.",
+    "features": [
+      "Gym floor access",
+      "Basic equipment use",
+      "Locker room access",
+      "2 group classes/month",
+      "Fitness assessment (1x)"
+    ]
+  },
+  {
+    "id": "plan-002",
+    "name": "Pro",
+    "badge": true,
+    "price": "$89.99/month",
+    "description": "Best choice for serious training enthusiasts.",
+    "features": [
+      "Everything in Starter",
+      "Unlimited group classes",
+      "1 personal training session/month",
+      "Diet plan consultation",
+      "Progress tracking",
+      "Guest pass (2x/month)"
+    ]
+  },
+  {
+    "id": "plan-003",
+    "name": "Elite",
+    "price": "$169.99/month",
+    "description": "All-in package for maximum results.",
+    "features": [
+      "Everything in Pro",
+      "4 personal training sessions/month",
+      "Custom workout plan",
+      "Nutrition & meal planning",
+      "Body composition analysis",
+      "24/7 gym access",
+      "Sauna & spa access",
+      "Priority booking"
+    ]
+  }
+]
