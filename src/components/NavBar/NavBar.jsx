@@ -28,7 +28,7 @@ const NavBar = () => {
         >
           {links}
         </ul>
-        <h3 className="btn btn-ghost px-0 text-xl">Iron<span className="text-indigo-500 font-bold text-4xl">+</span></h3>
+        <h3 className="btn btn-ghost px-0 text-xl">My NavBar</h3>
       </span>
       <ul className="hidden md:flex md:gap-10">{links}</ul>
       <button className="btn">Sign In</button>
