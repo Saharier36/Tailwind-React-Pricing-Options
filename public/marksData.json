@@ -1,0 +1,92 @@
+[
+  {
+    "id": "S001",
+    "name": "Student 1",
+    "marks": {
+      "bangla": 78,
+      "english": 82,
+      "gk": 75
+    }
+  },
+  {
+    "id": "S002",
+    "name": "Student 2",
+    "marks": {
+      "bangla": 85,
+      "english": 79,
+      "gk": 88
+    }
+  },
+  {
+    "id": "S003",
+    "name": "Student 3",
+    "marks": {
+      "bangla": 92,
+      "english": 87,
+      "gk": 90
+    }
+  },
+  {
+    "id": "S004",
+    "name": "Student 4",
+    "marks": {
+      "bangla": 70,
+      "english": 74,
+      "gk": 68
+    }
+  },
+  {
+    "id": "S005",
+    "name": "Student 5",
+    "marks": {
+      "bangla": 88,
+      "english": 91,
+      "gk": 85
+    }
+  },
+  {
+    "id": "S006",
+    "name": "Student 6",
+    "marks": {
+      "bangla": 76,
+      "english": 80,
+      "gk": 72
+    }
+  },
+  {
+    "id": "S007",
+    "name": "Student 7",
+    "marks": {
+      "bangla": 95,
+      "english": 89,
+      "gk": 93
+    }
+  },
+  {
+    "id": "S008",
+    "name": "Student 8",
+    "marks": {
+      "bangla": 67,
+      "english": 72,
+      "gk": 70
+    }
+  },
+  {
+    "id": "S009",
+    "name": "Student 9",
+    "marks": {
+      "bangla": 83,
+      "english": 78,
+      "gk": 81
+    }
+  },
+  {
+    "id": "S010",
+    "name": "Student 10",
+    "marks": {
+      "bangla": 90,
+      "english": 86,
+      "gk": 88
+    }
+  }
+]

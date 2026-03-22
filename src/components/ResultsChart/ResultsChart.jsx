@@ -83,23 +83,6 @@ const ResultsChart = () => {
           <Line dataKey={"english"} stroke="green"></Line>
           <Line dataKey={"gk"} stroke="skyblue"></Line>
         </LineChart>
-        <BarChart width={800} height={300} data={resultData}>
-          <XAxis dataKey="name"></XAxis>
-          <YAxis></YAxis>
-          <Tooltip></Tooltip>
-          <Bar
-            dataKey={"bangla"}
-             fill="pink"
-          ></Bar>
-          <Bar
-            dataKey={"english"}
-            fill="lightgreen"
-          ></Bar>
-          <Bar
-            dataKey={"gk"}
-            fill="gold"
-          ></Bar>
-        </BarChart>
       </div>
     );
 };
